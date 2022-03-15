@@ -1,0 +1,9 @@
+drop table if exists thresholds cascade;
+drop table if exists city cascade;
+drop table if exists task cascade;
+drop table if exists olympiad cascade;
+drop table if exists scholar cascade;
+drop table if exists result cascade;
+drop table if exists school cascade;
+drop table if exists districts cascade;
+drop table if exists result_by_id cascade;
