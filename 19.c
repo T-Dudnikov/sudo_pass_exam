@@ -1,3 +1,8 @@
+/*
+Условие.
+Напишите программу, считывающую N × M матрицу A в MSR формате, вектор x длины M и произведение Ax.
+*/
+
 #include <math.h>
 #include <stdio.h>
 #include <stdlib.h>
